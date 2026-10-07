@@ -1,5 +1,11 @@
 # Changelog
 
+## 58.0.11
+
+### Patch Changes
+
+- Preserve statement error codes and messages when queries run concurrently on Android and iOS, and format Android SQLite error codes as numbers. ([#51082](https://github.com/expo/expo/pull/51082) by [@savv](https://github.com/savv))
+
 ## 58.0.10
 
 ### Patch Changes
